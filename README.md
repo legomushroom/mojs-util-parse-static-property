@@ -1,0 +1,1 @@
+# mojs util to parse static property
